@@ -1,0 +1,3 @@
+class PortfolioabsController < ApplicationController
+
+end
